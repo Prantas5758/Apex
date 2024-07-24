@@ -821,7 +821,7 @@ systemctl start udp-custom &>/dev/null
 
 echo enable service udp-custom
 systemctl enable udp-custom &>/dev/null
-print_success "UDP-CUSTOM BY KIZARU STORE VPN"
+print_success "UDP-CUSTOM BY RIOT STORE VPN"
 clear
 print_install "MEMASANG NOOBZVPNS"
 cd
@@ -836,7 +836,7 @@ systemctl start noobzvpns &>/dev/null
 
 echo enable service noobzvpns
 systemctl enable noobzvpns &>/dev/null
-print_success "NOOBZVPNS BY KIZARU STORE VPN"
+print_success "NOOBZVPNS BY RIOT STORE VPN"
 }
 
 function ins_restart(){
