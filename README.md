@@ -40,7 +40,7 @@ su
 ```
 
 ### Link Pemesanan Script Autoinstall ssh
-__wa.me/6282251322380__
+__wa.me/6287738722195__
 
 ## INFO TAMBAHAN , SILAHKAN DI BACA 
 * MINIMAL RAM 1 GB UNTUK MENGGUNAKAN SCRIPT INI
